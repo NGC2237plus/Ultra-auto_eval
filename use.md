@@ -48,7 +48,7 @@
 </p>
 
 #### 编写代码   
-返回`code`，点击`main.c`编写C语言程序，或者点击`main.py`编写python程序   
+返回 `Code`，编辑 `1_main.c` 或 `1_main.py` 提交第 1 题。其他题在仓库根目录按 `题号_自定义名称.c` 或 `题号_自定义名称.py` 创建文件，每题提交一份源码。
 
 <p align="center">
 <img src="https://github.com/NGC2237plus/assets/blob/850c46f94748a8e1ea0652dd71b92fd313340032/Ultra-auto_eval/img/step9.png" width="800em" alt="图片说明">  

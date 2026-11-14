@@ -4,6 +4,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("Hello World");
+    /* 在这里编写答案。 */
     return 0;
 }
