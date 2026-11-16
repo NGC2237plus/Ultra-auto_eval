@@ -47,28 +47,6 @@
 <img src="https://github.com/NGC2237plus/assets/blob/850c46f94748a8e1ea0652dd71b92fd313340032/Ultra-auto_eval/img/step8.png" width="800em" alt="图片说明">  
 </p>
 
-#### 编写代码   
-返回 `Code`，编辑 `1_main.c` 或 `1_main.py` 提交第 1 题。其他题在仓库根目录按 `题号_自定义名称.c` 或 `题号_自定义名称.py` 创建文件，每题提交一份源码。
-
-<p align="center">
-<img src="https://github.com/NGC2237plus/assets/blob/850c46f94748a8e1ea0652dd71b92fd313340032/Ultra-auto_eval/img/step9.png" width="800em" alt="图片说明">  
-</p>
-
-点击“笔” ✏️: 图标就可以编写代码了，建议在自己电脑上测试完后直接复制粘贴过来   
-
-<p align="center">
-<img src="https://github.com/NGC2237plus/assets/blob/850c46f94748a8e1ea0652dd71b92fd313340032/Ultra-auto_eval/img/step10.png" width="800em" alt="图片说明">  
-</p>
-
-编写完成后右上角选择提交   
-
-<p align="center">
-<img src="https://github.com/NGC2237plus/assets/blob/850c46f94748a8e1ea0652dd71b92fd313340032/Ultra-auto_eval/img/step11.png" width="500em" alt="图片说明">  
-</p>
-
-<p align="center">
-<img src="https://github.com/NGC2237plus/assets/blob/850c46f94748a8e1ea0652dd71b92fd313340032/Ultra-auto_eval/img/step12.png" width="400em" alt="图片说明">  
-</p>
 
 #### 查看结果   
 找到`Actions`，列表是历史提交，可以查看每次的结果成绩，最上面的是最新的一次   
