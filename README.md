@@ -21,24 +21,6 @@
 10
 ```
 
-
-<details>
-<summary><h1>怎么创建文件</h1></summary>
-
-1.在仓库首页选择`新建文件`
-
-<p align="center">
-<img src="https://github.com/NGC2237plus/assets/blob/75ea28d7e1df77c3629c72627a98f7d5c76f23c8/Ultra-auto_eval/img/create1.png" width="800em" alt="图片说明">  
-</p>
-
-2.填写文件名（包括后缀，且文件在根目录）
-
-<p align="center">
-<img src="https://github.com/NGC2237plus/assets/blob/75ea28d7e1df77c3629c72627a98f7d5c76f23c8/Ultra-auto_eval/img/create2.png" width="800em" alt="图片说明">  
-</p>
-
-</details>
-
 # 文件内容格式
 - 第一行填写学号  
 - 第二行填写github登录使用的邮箱
